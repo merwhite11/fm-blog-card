@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import CardImage from "./assets/images/illustration-article.svg";
 import FooterImage from "./assets/images/image-avatar.webp";
 function App() {
@@ -13,11 +13,12 @@ function App() {
           <div className="card__content">
             <div className="card__flag">Learning</div>
             <p className="card__dateline">Published 21 Dec 2023</p>
-            <h1>HTML & CSS foundations</h1>
-            {/* <p className="card__text">
+            <h3 className="card__title">HTML & CSS foundations</h3>
+            <p className="card__text">
               These languages are the backbone of every website, definiting
               structure, content, and presentation.
-            </p> */}
+            </p>
+          </div>
             <div className="card__footer">
               <img
                 className="card__footer-image"
@@ -26,7 +27,6 @@ function App() {
               ></img>
               <p className="card__footer-byline">Greg Hooper</p>
             </div>
-          </div>
         </div>
       </section>
       {/* <div class="attribution">
