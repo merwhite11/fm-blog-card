@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fm-blog-card/static/css/main.0589b80e.css",
+    "main.js": "/fm-blog-card/static/js/main.9f7e986b.js",
+    "static/media/illustration-article.svg": "/fm-blog-card/static/media/illustration-article.082cca317c8b4b2c973fa73013373085.svg",
+    "static/media/image-avatar.webp": "/fm-blog-card/static/media/image-avatar.79dc6fdb93748b6b0120.webp",
+    "index.html": "/fm-blog-card/index.html",
+    "main.0589b80e.css.map": "/fm-blog-card/static/css/main.0589b80e.css.map",
+    "main.9f7e986b.js.map": "/fm-blog-card/static/js/main.9f7e986b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0589b80e.css",
+    "static/js/main.9f7e986b.js"
+  ]
+}
